@@ -8,8 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "\u0016"
+    "url": "git+https://github.com/YoonSuhyeok/portfolio.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YoonSuhyeok/portfolio/issues"
+  },
+  "homepage": "https://github.com/YoonSuhyeok/portfolio#readme",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
 }
